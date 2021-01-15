@@ -30,7 +30,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A bot that automatically solves the questions on [Stripcode.dev](stripcode.dev) , so you can make Points go brrrr.
+A bot that automatically solves the questions on [Stripcode.dev](https://stripcode.dev) , so you can make Points go brrrr.
 
 ### Built With
 To make it all work the Project uses:
