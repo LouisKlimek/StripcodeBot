@@ -55,7 +55,7 @@ git clone https://github.com/LouisKlimek/StripcodeBot
 
 3. Now you can let "main.py" run and it will automatically answer Questions on stripcode.dev
 
-4. Every time you start the Bot and it logins an extra GitHub that asks for permissions could open. Just accept it within 4 seconds and the bot should run. (If you don't manage to accept it, an error gets thrown and you just have to restart the bot)
+4. Every time you start the Bot and it logins, a extra GitHub Page that asks for permissions could open. Just accept it within 4 seconds and the bot will run. (If you don't manage to accept it, an error gets thrown and you just have to restart the bot)
 
 
 <!-- CONTRIBUTING -->
