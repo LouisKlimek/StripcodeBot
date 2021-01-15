@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/LouisKlimek/StripcodeBot">
-    <img src="logo.png" alt="StripcodeBot" width="80" height="80">
+    <img src="logo.png" alt="StripcodeBot" width="40" height="40">
   </a>
 
   <h3 align="center">StripcodeBot</h3>
