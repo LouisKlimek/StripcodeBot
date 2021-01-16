@@ -5,7 +5,6 @@ from selenium.webdriver.chrome.options import Options
 import os
 import requests
 from bs4 import BeautifulSoup
-import mysql.connector
 from datetime import datetime
 import time
 import random
